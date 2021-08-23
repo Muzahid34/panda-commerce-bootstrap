@@ -1,0 +1,20 @@
+.panda-bg-info{
+    background-color: #fceae8 ;
+}
+.catagories img{
+    width: 100px;
+}
+ .btn-buy-now{
+   background-color:tomato;
+   color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+} 
+.btn-warning-submit{
+    background-color:tomato;
+   color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
